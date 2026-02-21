@@ -1,2 +1,3 @@
 # CL-Assessment
-Process French conllu file, read dependency tree. 
+Pre-requisite for the Computational Linguistics program:
+https://u-paris.fr/linguistique/en/pre-requisites-for-the-computational-linguistics-program/
