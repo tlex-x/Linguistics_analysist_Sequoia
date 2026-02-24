@@ -1,11 +1,10 @@
 # Linguistic Analysis of French Corpora
-Based on the Computational Linguistics program assessment:
+Adapted from the Computational Linguistics program assessment:
 https://u-paris.fr/linguistique/en/pre-requisites-for-the-computational-linguistics-program/
 
 ## **Part 2: 
 - EMEA (European Medicines Agency) data set: French medical/pharmaceutical texts, focusing on word frequency distribution and POS tag ambiguity. Dev file only.
 - Conll-U file
-- Goal: A dictionary with key: word form, and value: frequency
 
 ### **Task 2.1: Simple Frequency-Based Sorting**
 - **Goal**: A dictionary with key: word form, and value: frequency. Sort words by decreasing frequency and display the top 100 most frequent words with their occurrence counts
@@ -35,6 +34,6 @@ https://u-paris.fr/linguistique/en/pre-requisites-for-the-computational-linguist
 
 ---
 ## Part 3:
-- Sequoia dataset
-- 
-- Goal: 
+- Sequoia dataset: sequoia.7.0.expanded.conll
+
+### Task 3.1
