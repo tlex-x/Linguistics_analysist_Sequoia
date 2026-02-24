@@ -34,6 +34,12 @@ https://u-paris.fr/linguistique/en/pre-requisites-for-the-computational-linguist
 
 ---
 ## Part 3:
-- Sequoia dataset: sequoia.7.0.expanded.conll
+- Sequoia dataset: contains 3,099 sentences from L’Est Républicain, EMEA, French Wikipedia, and Europarl, annotated with morphological and syntactic information, more precisely dependency trees.
+- Conll file
 
 ### Task 3.1
+**Key Steps**:
+- Overview of the dataset (number of tokens, sentences, sentence lengths)
+- A dependency is represented as a triple (governor word, dependency label, dependent word). Draw the dependency tree for the second sentence in the file;
+- Identify the particularity of the root of this tree.
+- Write a programme that reads these dependency trees: Recursive structure where each Tree instance contains node information and a list of dependent subtrees.
